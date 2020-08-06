@@ -9,7 +9,7 @@ About Me:
  
 [<img align="left" alt="furkanolkay.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://furkanolkay.com)
 [<img align="left" alt="furkay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FurkayOlkay)
-[<img align="left" alt="furkay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/furkan-saffet-olkay)
+[<img align="left" alt="furkay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://tr.linkedin.com/in/furkan-saffet-olkay)
 [<img align="left" alt="furkay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/furkay14)
 
 

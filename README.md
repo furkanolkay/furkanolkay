@@ -10,7 +10,7 @@
 
 - 🌱 I’m learning **Swift / SwiftUI - StoryBoard**
 
-- 🖥️ I’m working at RSSInteractive
+- 🖥️ I’m working at Tcm
 
 
 

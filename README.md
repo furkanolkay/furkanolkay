@@ -16,7 +16,7 @@
 
 
 - ⚡ Flutter Projects: 
-    [CepFinans](https://dovizceviri.app) | [DovizCevirici](https://www.cepfinans.com) | [ParaticPiyasalar](https://www.paraticpiyasalar.app)
+    [CepFinans](https://www.cepfinans.com) | [ParaticPiyasalar](https://www.paraticpiyasalar.app)
     
 
 <h3 align="center", style="text-align:center">Languages and Tools:</h3>

@@ -10,7 +10,6 @@
 
 - 🌱 I’m learning **Swift / SwiftUI - StoryBoard**
 
-- 🖥️ I’m working at Tcm
 
 
 

@@ -2,7 +2,7 @@
 
 - 📍 Software Developer - Flutter Developer
 
-- ✒️ I started blogging on [my personal website](https://furkanolkay.com).
+- ✒️ I started blogging on [medium](https://medium.com/@furkay).
 
 - 🎓 I graduated of **Computer Engineering** at **Bolu Abant İzzet Baysal University**
 
